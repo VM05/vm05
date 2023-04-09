@@ -1,7 +1,8 @@
-### Hi there 👋
+### Hola 👋
 
-<!--
-**VM05/vm05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> My name is Victor Montiel and i'm a Front-End Developer 😄</h3>
+
+
 
 Here are some ideas to get you started:
 
@@ -15,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vm05&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/vm05/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vm05&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/vm05/github-readme-stats)
 
