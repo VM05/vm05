@@ -8,7 +8,7 @@
 - 😄 Pronouns: 3 Door fridge :rofl: :rofl: :rofl:
 
 
-<h3>knowledge</h3>
+<h3 style="border-bottom:solid 1px #ccc">knowledge</h3>
 <hr>
 
 - 🌐 &nbsp;
