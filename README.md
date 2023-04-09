@@ -1,12 +1,8 @@
-### Hola 👋
+### Hey there!👋
 
-<h3> My name is Victor Montiel and i'm a Front-End Developer 😄</h3>
+<h3>I'm Victor Montiel and i'm a Front-End Developer 😄</h3>
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my Portfolio using ![Vue](https://img.shields.io/badge/-vue-333333?style=flat&logo=vue)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
