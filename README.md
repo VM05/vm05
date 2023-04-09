@@ -15,7 +15,7 @@
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat-&amp;logo=vue.js)
 ![javascript](https://img.shields.io/badge/-javascript-333333?style=flat-&amp;logo=javascript)
 ![html5](https://img.shields.io/badge/-HTML5-333333?style=flat-&amp;logo=HTML5)
-![css3](https://img.shields.io/badge/-CSS3-333333?style=flat-&amp;logo=css3)
+![css3](https://img.shields.io/badge/-CSS3-333333?style=flat-&amp;logo=css3&logoColor=1572B6)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vm05&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/vm05/github-readme-stats)
 
