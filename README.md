@@ -11,6 +11,7 @@
 <hr>
 
 - 🌐 &nbsp;
+![react.js](https://img.shields.io/badge/-VueJS-333333?style=flat-&amp;logo=react.js)
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat-&amp;logo=vue.js)
 ![javascript](https://img.shields.io/badge/-javascript-333333?style=flat-&amp;logo=javascript)
 ![html5](https://img.shields.io/badge/-HTML5-333333?style=flat-&amp;logo=HTML5)
